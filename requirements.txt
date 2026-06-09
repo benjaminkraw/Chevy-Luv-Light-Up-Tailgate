@@ -1,0 +1,18 @@
+# How to Manually Install a Library through Terminal
+# python -m pip install xxxxxxxxxx
+
+### ---------------------------------------------------
+### Python Dependencies - Libraries
+
+# Scientific Computing:
+numpy
+
+# Data Management:
+pandas
+
+# Animation:
+ffmpeg
+manim
+
+# Plotting Data:
+matplotlib
